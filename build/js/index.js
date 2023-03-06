@@ -1,0 +1,1 @@
+"use strict";function showMessage(e){return"hello ".concat(e)}
